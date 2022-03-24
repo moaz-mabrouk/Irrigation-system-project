@@ -1,0 +1,14 @@
+MCAL/TIMERS/TIMER1/TIMER1_prog.o MCAL/TIMERS/TIMER1/TIMER1_prog.o:  \
+ ../MCAL/TIMERS/TIMER1/TIMER1_prog.c \
+  ../MCAL/TIMERS/TIMER1/../../../lib/BIT_MATH.h \
+  ../MCAL/TIMERS/TIMER1/../../../lib/STD_TYPES.h \
+  ../MCAL/TIMERS/TIMER1/TIMER1_registers.h \
+  ../MCAL/TIMERS/TIMER1/TIMER1_interface.h
+
+../MCAL/TIMERS/TIMER1/../../../lib/BIT_MATH.h:
+
+../MCAL/TIMERS/TIMER1/../../../lib/STD_TYPES.h:
+
+../MCAL/TIMERS/TIMER1/TIMER1_registers.h:
+
+../MCAL/TIMERS/TIMER1/TIMER1_interface.h:
